@@ -1,0 +1,8 @@
+POST http://localhost:3000/addpost
+Content-Type: application/json
+
+{
+    "Book_Name":"Python Programming" ,
+    "Name_of_issuer": "Tim",
+    "due_date": "12 July 2021"
+}
